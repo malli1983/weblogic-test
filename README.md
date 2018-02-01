@@ -1,2 +1,1 @@
-# weblogic-test
-test
+# Oracle WebLogic Chef Cookbook
